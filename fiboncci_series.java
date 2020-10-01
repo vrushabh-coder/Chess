@@ -8,7 +8,7 @@ public class fiboncci_series {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter length of the series ");
 		int n=sc.nextInt();
-		int i=0,j=1,k;
+		int i=0,j=1,k=0;
 		System.out.println(i);
 		System.out.println(j);
 		 
